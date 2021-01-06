@@ -1,0 +1,14 @@
+{
+  "name": "pascaltriangle",
+  "version": "1.0.0",
+  "description": "Pascal Triangle Problem from Udacity",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Evan Greer",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
